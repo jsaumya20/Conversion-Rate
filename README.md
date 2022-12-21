@@ -1,5 +1,7 @@
 # Conversion-Rate
-Predict conversion rate and provide conversion rate improvement suggestions.
+![image](https://user-images.githubusercontent.com/91350558/208845303-094c7f8b-1d0b-4062-a69a-cac42ffb3b9e.png)
+
+Predict conversion rate of the users on the website and provide conversion rate improvement suggestions.
 
 ## Goal
 
