@@ -35,3 +35,20 @@ This is a proxy for time spent on site and engagement during the session.
 converted: this is our label. 1 means they converted within the session, 0 means they left without buying anything. 
 
 ### The company goal is to increase conversion rate: # conversions / total sessions.
+
+## Recommendations
+
+Based on my findings, I propose the following to the marketing team.
+1. Chinese users have an extremely low conversion rate. The company must improve its targeting of Chinese users.
+
+2. Total pages visited is one of the important feature of the model, so company should try to increase user engagment on there website either by adding polls or    quizes and thereby rewarding coupons at the end of quizes, this will also help in attracting new customer base.
+
+3. While younger users are doing well, company appear to be losing older users.
+
+4. Older accounts convert at a higher pace. We may target new users with promotional offers and ad campaigns to entice them to visit our website more frequently.
+
+5. If a person has viewed several pages but has not yet converted, we should utilize comparable targeted tools to persuade them to do so.
+
+6. Younger generation & users in Germany do really well on our site, and we should target ad campaigns to attract younger and new German users.
+
+*******THANK YOU*******
